@@ -254,8 +254,8 @@ initVar() {
     # 宝塔域名
     btDomain=
     # nginx配置文件路径
-    nginxConfigPath=/etc/nginx/conf.d/
-    nginxStaticPath=/usr/share/nginx/html/
+    nginxConfigPath=/usr/local/nginx/conf/
+    nginxStaticPath=/usr/local/nginx/conf/html/
 
     # 是否为预览版
     prereleaseStatus=false
